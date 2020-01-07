@@ -1,6 +1,5 @@
 ## Quotes Studio
 
-## Privacy Policy
 
 built the Quotes Studio app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
