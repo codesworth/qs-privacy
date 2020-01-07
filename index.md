@@ -1,7 +1,7 @@
 ## Quotes Studio
 
 
-built the Quotes Studio app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+Quote Studio app, built by Shadrach Mensah as a fremium app with in-app purchase feature. This SERVICE is provided by at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
